@@ -1,0 +1,7 @@
+{
+  "SuccessHeader": "Obrigado pela sua compra!",
+  "SuccessParagraph": "A sua transação foi bem sucedida! Descarregue o seu ficheiro abaixo!",
+  "SuccessButton": "Descarregar",
+  "UnauthorizedHeader": "Não está autorizado a visualizar este conteúdo!",
+  "UnauthorizedButton": "Voltar à página inicial"
+}

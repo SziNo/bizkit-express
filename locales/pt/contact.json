@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "Se tiver alguma questão, não hesite em contactar-nos!",
+  "3dCardTitle": "Informações de contacto",
+  "3dCardFooter": "Em alternativa, não hesite em contactar-nos através das nossas plataformas de redes sociais para obter mais assistência.",
+  "ContactFormButton": "Enviar",
+  "ContactFormEmail": "Email",
+  "ContactFormMessage": "Mensagem",
+  "ContactFormName": "Nome",
+  "ContactHeader": "Ligar-se a nós",
+  "CopiedToClipboard": "Copiado para a área de transferência!",
+  "FailedMessageSent": "Algo correu mal!",
+  "InvalidEmail": "O e-mail tem de ser válido.",
+  "InvalidMessage": "A mensagem não pode estar vazia.",
+  "InvalidName": "O nome de utilizador tem de ter pelo menos 2 caracteres.",
+  "SuccesfullMessageSent": "Mensagem enviada com sucesso!",
+  "ContactFormTitle": "Formulário de contacto",
+  "NewsletterHeader": "Subscrever a nossa newsletter",
+  "NewsletterParagraph": "Mantenha-se ligado a nós! Ao subscrever, será o primeiro a saber dos nossos novos serviços e modelos. Esta é uma forma simples de garantir que está sempre atualizado com as nossas últimas ofertas.",
+  "NewsletterButton": "Subscrever agora"
+}

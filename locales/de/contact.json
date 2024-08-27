@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "Wenn Sie Fragen haben, können Sie sich gerne an uns wenden!",
+  "3dCardTitle": "Kontaktinformationen",
+  "3dCardFooter": "Alternativ können Sie uns auch auf unseren Social-Media-Plattformen kontaktieren, um weitere Unterstützung zu erhalten.",
+  "ContactFormButton": "einreichen",
+  "ContactFormEmail": "E-Mail",
+  "ContactFormMessage": "Nachricht",
+  "ContactFormName": "Name",
+  "ContactHeader": "Verbinden Sie sich mit uns",
+  "CopiedToClipboard": "In die Zwischenablage kopiert!",
+  "FailedMessageSent": "Etwas ist schief gegangen!",
+  "InvalidEmail": "Die E-Mail muss gültig sein.",
+  "InvalidMessage": "Die Nachricht darf nicht leer sein.",
+  "InvalidName": "Der Benutzername muss mindestens 2 Zeichen lang sein.",
+  "SuccesfullMessageSent": "Nachricht wurde erfolgreich gesendet!",
+  "ContactFormTitle": "Kontakt-Formular",
+  "NewsletterHeader": "Melden Sie sich für unseren Newsletter an",
+  "NewsletterParagraph": "Bleiben Sie mit uns in Verbindung! Wenn Sie sich bei uns anmelden, erfahren Sie als Erster von unseren neuen Dienstleistungen und Vorlagen. So können Sie ganz einfach sicherstellen, dass Sie immer über unsere neuesten Angebote informiert sind.",
+  "NewsletterButton": "Jetzt anmelden"
+}

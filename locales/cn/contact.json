@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "如有任何问题，请随时联系我们！",
+  "3dCardTitle": "联系信息",
+  "3dCardFooter": "如需更多帮助，请随时通过我们的社交媒体平台与我们联系。",
+  "ContactFormButton": "提交",
+  "ContactFormEmail": "电子邮件",
+  "ContactFormMessage": "留言",
+  "ContactFormName": "您的姓名",
+  "ContactHeader": "Connect with us",
+  "CopiedToClipboard": "复制到剪贴板！",
+  "FailedMessageSent": "出错了！",
+  "InvalidEmail": "电子邮件必须有效。",
+  "InvalidMessage": "信息不能为空。",
+  "InvalidName": "用户名必须至少包含 2 个字符。",
+  "SuccesfullMessageSent": "信息已成功发送！",
+  "ContactFormTitle": "联系表格",
+  "NewsletterHeader": "加入我们的时事通讯",
+  "NewsletterParagraph": "与我们保持联系！通过订阅，您将第一时间了解我们的新服务和模板。这是一种确保您始终了解我们最新产品的简单方法。",
+  "NewsletterButton": "现在加入"
+}

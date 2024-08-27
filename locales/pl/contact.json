@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "Jeśli masz jakieś pytania, skontaktuj się z nami!",
+  "3dCardTitle": "Informacje kontaktowe",
+  "3dCardFooter": "Możesz również skontaktować się z nami na naszych platformach społecznościowych, aby uzyskać dalszą pomoc.",
+  "ContactFormButton": "Wyślij",
+  "ContactFormEmail": "E-mail",
+  "ContactFormMessage": "Wiadomość",
+  "ContactFormName": "Nazwa",
+  "ContactHeader": "Połącz się z nami",
+  "CopiedToClipboard": "Skopiowano do schowka!",
+  "FailedMessageSent": "Coś poszło nie tak!",
+  "InvalidEmail": "Email musi być poprawny.",
+  "InvalidMessage": "Wiadomość nie może być pusta.",
+  "InvalidName": "Nazwa użytkownika musi składać się z co najmniej 2 znaków.",
+  "SuccesfullMessageSent": "Wiadomość została pomyślnie wysłana!",
+  "ContactFormTitle": "Formularz kontaktowy",
+  "NewsletterHeader": "Dołącz do naszego newslettera",
+  "NewsletterParagraph": "Pozostań z nami w kontakcie! Dzięki subskrypcji jako pierwszy dowiesz się o naszych nowych usługach i szablonach. To prosty sposób, aby zawsze być na bieżąco z naszą najnowszą ofertą.",
+  "NewsletterButton": "Dołącz teraz"
+}

@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "If you have any question, please feel free to get in touch!",
+  "3dCardTitle": "Contact Info",
+  "3dCardFooter": "Alternatively feel free to connect with us on our social media platforms for further assistance.",
+  "ContactFormButton": "Submit",
+  "ContactFormEmail": "Email",
+  "ContactFormMessage": "Message",
+  "ContactFormName": "Name",
+  "ContactHeader": "Connect with us",
+  "CopiedToClipboard": "Copied to clipboard!",
+  "FailedMessageSent": "Something went wrong!",
+  "InvalidEmail": "Email must be valid.",
+  "InvalidMessage": "Message cannot be empty.",
+  "InvalidName": "Username must be at least 2 characters.",
+  "SuccesfullMessageSent": "Message succesfully sent!",
+  "ContactFormTitle": "Contact Form",
+  "NewsletterHeader": "Join our newsletter",
+  "NewsletterParagraph": "Stay connected with us! By subscribing, you'll be the first to know about our new services and templates. This is a simple way to ensure you're always up-to-date with our latest offerings.",
+  "NewsletterButton": "Join now"
+}

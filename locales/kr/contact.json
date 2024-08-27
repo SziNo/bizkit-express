@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "궁금한 점이 있으시면 언제든지 문의해 주세요!",
+  "3dCardTitle": "연락처 정보",
+  "3dCardFooter": "또는 소셜 미디어 플랫폼에서 언제든지 연락하여 추가 지원을 받으세요.",
+  "ContactFormButton": "제출하기",
+  "ContactFormEmail": "이메일",
+  "ContactFormMessage": "메시지",
+  "ContactFormName": "이름",
+  "ContactHeader": "문의하기",
+  "CopiedToClipboard": "클립보드에 복사되었습니다!",
+  "FailedMessageSent": "문제가 발생했습니다!",
+  "InvalidEmail": "이메일이 유효해야 합니다.",
+  "InvalidMessage": "메시지는 비워 둘 수 없습니다.",
+  "InvalidName": "사용자 아이디는 2자 이상이어야 합니다.",
+  "SuccesfullMessageSent": "메시지가 성공적으로 전송되었습니다!",
+  "ContactFormTitle": "문의 양식",
+  "NewsletterHeader": "뉴스레터 구독하기",
+  "NewsletterParagraph": "저희와 계속 소통하세요! 구독을 신청하면 새로운 서비스와 템플릿에 대한 소식을 가장 먼저 받아볼 수 있습니다. 이 간단한 방법으로 항상 최신 소식을 받아볼 수 있습니다.",
+  "NewsletterButton": "지금 가입하기"
+}

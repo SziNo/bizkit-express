@@ -1,0 +1,7 @@
+{
+  "SuccessHeader": "ご購入ありがとうございました！",
+  "SuccessParagraph": "あなたの取引は成功しました！下記のファイルをダウンロードしてください！",
+  "SuccessButton": "ダウンロード",
+  "UnauthorizedHeader": "このコンテンツを表示する権限がありません！",
+  "UnauthorizedButton": "ホームへ戻る"
+}

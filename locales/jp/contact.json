@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "ご不明な点がございましたら、お気軽にお問い合わせください！",
+  "3dCardTitle": "お問い合わせ先",
+  "3dCardFooter": "また、ソーシャルメディアでもお気軽にお問い合わせください。",
+  "ContactFormButton": "送る",
+  "ContactFormEmail": "電子メール",
+  "ContactFormMessage": "メッセージ",
+  "ContactFormName": "名前",
+  "ContactHeader": "私たちとつながる",
+  "CopiedToClipboard": "クリップボードにコピーされました！",
+  "FailedMessageSent": "何か問題が発生しました！",
+  "InvalidEmail": "電子メールは有効でなければなりません。",
+  "InvalidMessage": "Message cannot be empty.",
+  "InvalidName": "ユーザー名は2文字以上でなければなりません。",
+  "SuccesfullMessageSent": "メッセージは正常に送信されました！",
+  "ContactFormTitle": "お問い合わせフォーム",
+  "NewsletterHeader": "ニュースレターに登録する",
+  "NewsletterParagraph": "私たちとつながっていましょう！ご登録いただくと、新しいサービスやテンプレートについていち早くお知らせします。ご購読いただくことで、常に最新の情報を入手することができます。",
+  "NewsletterButton": "今すぐ登録"
+}

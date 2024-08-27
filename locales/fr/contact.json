@@ -1,0 +1,20 @@
+{
+  "3dCardDescription": "Si vous avez des questions, n'hésitez pas à nous contacter !",
+  "3dCardTitle": "Contact",
+  "3dCardFooter": "N'hésitez pas à nous contacter sur nos plateformes de médias sociaux pour obtenir de l'aide.",
+  "ContactFormButton": "Soumettre",
+  "ContactFormEmail": "Courriel",
+  "ContactFormMessage": "Message",
+  "ContactFormName": "Nom",
+  "ContactHeader": "Se connecter avec nous",
+  "CopiedToClipboard": "Copié dans le presse-papiers !",
+  "FailedMessageSent": "Quelque chose n'a pas fonctionné !",
+  "InvalidEmail": "L'adresse électronique doit être valide.",
+  "InvalidMessage": "Le message ne peut pas être vide.",
+  "InvalidName": "Le nom d'utilisateur doit comporter au moins 2 caractères.",
+  "SuccesfullMessageSent": "Message envoyé avec succès !",
+  "ContactFormTitle": "Formulaire de contact",
+  "NewsletterHeader": "S'inscrire à notre bulletin d'information",
+  "NewsletterParagraph": "Restez en contact avec nous ! En vous inscrivant, vous serez le premier à être informé de nos nouveaux services et modèles. C'est un moyen simple de vous assurer que vous êtes toujours au courant de nos dernières offres.",
+  "NewsletterButton": "S'inscrire"
+}
